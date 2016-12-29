@@ -1,0 +1,1 @@
+{{ Html::script('assets/js/jquery.number.min.js') }}
